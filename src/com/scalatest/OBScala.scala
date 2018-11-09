@@ -23,7 +23,7 @@ object OBScala {
     //显式声明变量类型
     //变量名在前,类型在后
     val a: Int = 100
-    val b: String = "xxxlll"
+    val b: String = "xxxlll"//
     println(a+b)
   }
 }
